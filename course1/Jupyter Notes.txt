@@ -1,0 +1,10 @@
+https://jupyter.org/install
+
+To run:
+
+1. venv.bat
+2. Choose one:
+
+jupyter lab
+jupyter notebook
+voila
